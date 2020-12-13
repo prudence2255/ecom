@@ -10,3 +10,13 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+// /public/hot
+// /public/storage
+// /public/css
+// /public/js
+// /public/vendor
+// /public/themes
+// /public/fonts
+// /docker-compose-collection/
+// /resources/themes/velocity/*
